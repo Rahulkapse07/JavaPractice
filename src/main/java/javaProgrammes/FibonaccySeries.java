@@ -15,7 +15,7 @@ public class FibonaccySeries {
 		first=second;
 		second=temp;
 		}
-		
+		System.out.println("   ");
 		System.out.println(second);
 		
 		
